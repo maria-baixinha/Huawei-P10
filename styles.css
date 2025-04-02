@@ -60,7 +60,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(#212529);
+    background-color: var(--preto);
     border-radius: 30px;
     border: none;
     width: 14em;
